@@ -1,0 +1,55 @@
+Format,Category,Statistic,Value,Player
+Test,Matches,Matches Played,113,Virat Kohli
+Test,Batting,Inns,191,Virat Kohli
+Test,Batting,Runs Scored,8848,Virat Kohli
+Test,Batting,Highest Score,254*,Virat Kohli
+Test,Batting,Bat Avg.,49.15,Virat Kohli
+Test,Batting,100s,30,Virat Kohli
+Test,Batting,50s,29,Virat Kohli
+Test,Batting,4s,991,Virat Kohli
+Test,Batting,6s,26,Virat Kohli
+ODI,Matches,Matches Played,292,Virat Kohli
+ODI,Batting,Inns,280,Virat Kohli
+ODI,Batting,Runs Scored,13848,Virat Kohli
+ODI,Batting,Highest Score,183,Virat Kohli
+ODI,Batting,Bat Avg.,58.67,Virat Kohli
+ODI,Batting,100s,72,Virat Kohli
+ODI,Batting,50s,50,Virat Kohli
+ODI,Batting,4s,1293,Virat Kohli
+ODI,Batting,6s,151,Virat Kohli
+T20I,Matches,Matches Played,125,Virat Kohli
+T20I,Batting,Inns,117,Virat Kohli
+T20I,Batting,Runs Scored,4188,Virat Kohli
+T20I,Batting,Highest Score,122*,Virat Kohli
+T20I,Batting,Bat Avg.,48.69,Virat Kohli
+T20I,Batting,100s,1,Virat Kohli
+T20I,Batting,50s,38,Virat Kohli
+T20I,Batting,4s,369,Virat Kohli
+T20I,Batting,6s,124,Virat Kohli
+Test,Matches,Matches Played,52,Babar Azam
+Test,Batting,Inns,94,Babar Azam
+Test,Batting,Runs Scored,3898,Babar Azam
+Test,Batting,Highest Score,196,Babar Azam
+Test,Batting,Bat Avg.,45.85,Babar Azam
+Test,Batting,100s,9,Babar Azam
+Test,Batting,50s,26,Babar Azam
+Test,Batting,4s,453,Babar Azam
+Test,Batting,6s,23,Babar Azam
+ODI,Matches,Matches Played,117,Babar Azam
+ODI,Batting,Inns,114,Babar Azam
+ODI,Batting,Runs Scored,5729,Babar Azam
+ODI,Batting,Highest Score,158,Babar Azam
+ODI,Batting,Bat Avg.,56.72,Babar Azam
+ODI,Batting,100s,19,Babar Azam
+ODI,Batting,50s,32,Babar Azam
+ODI,Batting,4s,520,Babar Azam
+ODI,Batting,6s,60,Babar Azam
+T20I,Matches,Matches Played,125,Babar Azam
+T20I,Batting,Inns,117,Babar Azam
+T20I,Batting,Runs Scored,4188,Babar Azam
+T20I,Batting,Highest Score,122*,Babar Azam
+T20I,Batting,Bat Avg.,48.69,Babar Azam
+T20I,Batting,100s,1,Babar Azam
+T20I,Batting,50s,38,Babar Azam
+T20I,Batting,4s,369,Babar Azam
+T20I,Batting,6s,124,Babar Azam
