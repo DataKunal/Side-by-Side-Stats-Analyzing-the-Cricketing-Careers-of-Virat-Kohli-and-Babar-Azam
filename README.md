@@ -1,0 +1,2 @@
+# Side-by-Side-Stats-Analyzing-the-Cricketing-Careers-of-Virat-Kohli-and-Babar-Azam
+This Power BI dashboard compares the illustrious cricketing careers of two modern-day greats, Virat Kohli and Babar Azam, across Test, ODI, and T20I formats. The dashboard visualizes key statistics such as matches played, batting averages, strike rates, hundreds, fifties, boundaries, and catches, offering a detailed side-by-side analysis 
